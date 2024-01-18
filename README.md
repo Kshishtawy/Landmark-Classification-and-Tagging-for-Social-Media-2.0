@@ -8,8 +8,8 @@ If no location metadata for an image is available, one way to infer the location
 In this project, we take the first steps towards addressing this problem by building models to automatically predict the location of the image based on any landmarks depicted in the image.
  
 The project goes through the machine learning design process end-to-end: performing data preprocessing, designing and training CNNs, and comparing the accuracy of different CNNs
-<img alt="Examples from the landmarks dataset - a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower" src="https://video.udacity-data.com/topher/2021/February/602dac82_landmarks-example/landmarks-example.png" class="chakra-image css-mvsohj">
-*Examples from the landmarks dataset - a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower*
+
+<img alt="Examples from the landmarks dataset - a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower" src="https://video.udacity-data.com/topher/2021/February/602dac82_landmarks-example/landmarks-example.png" class="chakra-image css-mvsohj"> *Examples from the landmarks dataset - a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower*
 
 ## Project Steps
 ### 1- Training a CNN model from scratch
