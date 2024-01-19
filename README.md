@@ -31,10 +31,6 @@ corresponding Jupyter Notebook: [transfer_learning.ipynb](transfer_learning.ipyn
 ### The Jupyter Notebooks
 The Jupyter Notebooks contain the basic structure of the project with the code to call and run all the functions together but without the actual implementation of each function.   
 
-## Project Setup
-
-This setup assumes a basic understanding of creating a functional deep learning environment. While it is designed to work seamlessly, be prepared to perform system operations (such as installing new NVIDIA drivers for your GPU) that may not be covered in the class.
-
 ## Getting Started
 
 1. **Clone This repository**
